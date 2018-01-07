@@ -16,5 +16,8 @@ To-do Check list:
   a. Branch
   b. atom, Understanding the color.
 3. Content of the website
-  就决定是物理了！
-  
+  就决定是物理Blog了！
+4. interesting Tech
+  a. RSS!
+  b. 之后要学怎么管理一个网站了。（图片那些怎么管理）
+5. 想找一个logo for myself.可以的话其实也需要个好名字
