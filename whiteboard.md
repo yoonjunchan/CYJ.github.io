@@ -1,5 +1,5 @@
 Ok, I started my own website, for both building up my own reputation and practice website development.
-Don't be too ambitious, just build the basic first. 
+Don't be too ambitious, just build the basic first.
 
 To-do Check list:
 1. HTML element to use:
@@ -15,3 +15,6 @@ To-do Check list:
 2. Understanding Github workflow
   a. Branch
   b. atom, Understanding the color.
+3. Content of the website
+  就决定是物理了！
+  
