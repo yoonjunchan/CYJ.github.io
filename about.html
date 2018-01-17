@@ -1,24 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>关于 陈永骏 About Me</title>
+  <title>About Me 关于 陈永骏</title>
   <style type="text/css">
   p {
     font-family: "Lucida Console";
+  }
+
+  .yellow_back {
+    background-color: cyan;
+  }
+
+  .gray_black{
+    background-color: gray;
+    width: 300px;
   }
   </style>
 </head>
 
 <body>
-  <h1>你好!我是陈永骏。<br />Hi! I'm Chan Yoon Jun.<br />Hallo! Ich bin Chan Yoon Jun.</h1>
-  <p>
+  <h1 id="top">你好!我是陈永骏。<br />Hi! I'm Chan Yoon Jun.<br />Hallo! Ich bin Chan Yoon Jun.</h1>
+  <p class="gray_black">
     <i>Hey! You speak Chinese, you must be from China!</i><br />
     <b>No!</b>    I come from a beautiful country called <u><i>Malaysia</i></u>.
   </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8149950.528418951!2d105.11915190490532!3d4.127919667437881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3034d3975f6730af%3A0x745969328211cd8!2sMalaysia!5e0!3m2!1sde!2sde!4v1515323345203" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
   <p>
-  Scince 2017 I study <b>Physics</b> in Germany.
+  Scince 01.10.2017 I study <b>Physics</b> in Germany.
   </p>
 
   <hr />
@@ -28,7 +37,7 @@
     <ul>
       <li>Reading</li> <!--读的都是什么书，书List-->
       <li>Photograhy</li>
-      <li>Watching Movie <i>(Espiecally movies from Nolan :))</i></li>
+      <li>Watching Movie <i><span class="yellow_back">(Espiecally movies from Nolan :))</span></i></li>
       <li>Comics</li>
       <li><del>Play video games</del></li>
       <!---想要写更多，觉得放在list里面好难弄啊，只是李斯特标题，然后扩展内容是怎么弄的啊？学完了弄这个！--->
@@ -55,6 +64,8 @@
       </tr>
     </tbody>
   </table>
+
+  <p><a href="#top">Back to Top</a></p>
 
 </body>
 </html>

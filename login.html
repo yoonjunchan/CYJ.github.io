@@ -3,18 +3,33 @@
 <html>
 <head>
   <title>Fake Login Page</title>
+  <style type="text/css">
+    .gray_black {
+      background-color: gray;
+      font-family: sans-serif;
+    }
+    .loginbox{
+      text-align: center;
+      margin: auto;
+      padding:10px;
+      width: 40%;
+    }
+  </style>
 </head>
 
 <body>
-  <h1>
+  <h1 style="text-align:center">
     Welcome!
   </h1>
-  <form action="https://www.fb.com/profile.php?id=100001639060791&ref=bookmarks">
-    <p>Username:<input type="text" placeholder="It's a fake login page btw" /></p>
-    <p>Password:<input type="password" /></p>
-    <p>Stay Logged in:<input type="checkbox" /></p>
-    <p><input type="submit" value="Log in...?" /></p>
-  </form>
+
+  <div class="gray_black loginbox">
+    <form action="https://www.fb.com/profile.php?id=100001639060791&ref=bookmarks">
+      <p>Username:<input type="text" placeholder="It's a fake login page btw" /></p>
+      <p>Password:<input type="password" /></p>
+      <p>Stay Logged in:<input type="checkbox" /></p>
+      <p><input type="submit" value="Log in...?" /></p>
+    </form>
+  </div>
 
   <p>
     CYJ &copy;

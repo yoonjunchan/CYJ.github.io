@@ -1,5 +1,6 @@
 index
 link to 每个个别的site就先放着，学完了再弄美美
+弄成 blog样，弄个menu，放格言
 
 about Page
 link to LinkedIn, FB, Flickr
