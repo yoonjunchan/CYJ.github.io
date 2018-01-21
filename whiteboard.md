@@ -1,7 +1,7 @@
 Ok, I started my own website, for both building up my own reputation and practice website development.
 Don't be too ambitious, just build the basic first.
 
-To-do Check list:
+#To-do Check list:
 1. HTML element to use:
   a. float
   b. clear

@@ -1,12 +1,31 @@
-index
+#readme
+这个也要记得update呢
+
+#index
 link to 每个个别的site就先放着，学完了再弄美美
 弄成 blog样，弄个menu，放格言
 
-about Page
+#about Page
 link to LinkedIn, FB, Flickr
 简短的自我介绍
-  兴趣，理想
+  * 兴趣，理想
 我的学历（重点打出来）
 iframe 马来西亚地图！, forms, 不知道放什么呢 做个假login page吧！
+favorite Youtube Channel
 
-content
+#content
+大体：**物理Blog**。既然决定先用中文写，那about page也翻去中文吧！
+什么样的物理blog呢？当然是详细的啦！
+
+0. 数学与物理绵绵纠缠不清的关系、为什么学习物理、物理对于全人类有什么用？
+  100. 什么？大学打算读物理系？先想清楚! (毕业更新)
+1. 物理简史
+2. 现今教育系统的利与弊，怎么规避弊
+
+#feature：
+*我网站的特别之处*
+推荐阅读
+习惯养成？解习题的思维方式
+格言格言！毕竟还只是个年轻人，**保持开放的心态！**
+更多其实像是自己的学习总结，更重要的是指出每一堂课应该要学习到的知识点
+系统地学习！把知识们联系在一起！
