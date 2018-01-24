@@ -8,6 +8,7 @@ Don't be too ambitious, just build the basic first.
   c. Position
       z-index!!
   d. Quote
+  e. 不是很喜欢都用px来设定位置，有没有别的方法？
 2. Understanding Github workflow
   a. Branch
   b. atom, Understanding the color.
