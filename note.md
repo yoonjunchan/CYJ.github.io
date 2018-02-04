@@ -6,13 +6,8 @@ link to 每个个别的site就先放着，学完了再弄美美
 弄成 blog样，弄个menu，放格言
 
 # about Page
-link to LinkedIn, FB, Flickr
-简短的自我介绍
-  * 兴趣，理想
-我的学历（重点打出来）
-iframe 马来西亚地图！, forms, 不知道放什么呢 做个假login page吧！
-favorite Youtube Channel
-还是个 *充满理想的年轻人*，不知道是因为还没完全成年还是 *物理学家的性格使然*
+* 为什么弄这个网站，目的是？
+* 还是个 *充满理想的年轻人*，不知道是因为还没完全成年还是 *物理学家的性格使然*
 
 # content
 大体：**物理Blog**。既然决定先用中文写，那about page也翻去中文吧！
@@ -28,6 +23,7 @@ favorite Youtube Channel
 * 上课学到的啦当然是
 * *每篇都有个第0小节，避免学习物理的过程因数学知识小小的匮乏而效率大减* <--这个才是我想要的，系统、效率地学习的方法。
 * 其实没有必要太深入，到自己的程度就好了。
+* 其实就是 *以一个未来物理学家的角度去剖析数学！*
 1. 还有，自学的更重要，比如说代数结构之类的。
 
 ## 分支
@@ -46,3 +42,5 @@ favorite Youtube Channel
 * 用希腊文字代替章节！嘿嘿
   https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D
 * Floating/fixed/sticky Position for Things to keep in Mind(容易见到的东西)速记，速查列表，什么符号是什么意思，哪里来，式子minimap
+* Material Design!
+* 重要的式子，可以用expand menu的方式看详细推导
