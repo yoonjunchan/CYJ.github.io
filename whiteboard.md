@@ -11,6 +11,7 @@ Don't be too ambitious, just build the basic first.
   e. 不是很喜欢都用px来设定位置，有没有别的方法？
       截图 "Problem 1"
   f. use external CSS
+  g.鼠标指上去时的hover显示？
 2. Understanding Github workflow
   a. Branch
   b. atom, Understanding the color.
