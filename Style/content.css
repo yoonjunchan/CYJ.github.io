@@ -38,12 +38,6 @@
   text-align:center;
 }
 
-
-.title {                  /*title group, need a pixel-perfect position*/
-  margin: 0px;
-  padding:0px;
-}
-
 .sm_note {                /*ps note*/
   font-size: 0.6em;       /*居然真的有乘起来的效果！哈哈！*/
   font-style: italic;
@@ -53,16 +47,31 @@
   font-weight: bold;
 }
 
-#fst_title {
-  float: left;
-  width: 15%;
-  height:60px;
+.nav_item {
+  float: right;
+  margin: 5px;
+  width: 60px;
   text-align: center;
-  font: italic 3.25em Georgia;
-  padding-left: 10%;
+  /*font*/
+  /*remove hyperlink style*/
 }
 
-#snd_title {
+.nav_item.active {
+  border-bottom: lightgray solid 3px;
+}
+
+#logo {
+  float: left;
+  width: 100px;
+  height:100px;
+  text-align: center;
+  font: italic 3em Georgia;
+  color: white;
+  border-radius: 50%;
+  background-color: black;
+}
+
+#title {
   height:35px;
   padding:3px;
   font:2em Georgia;
@@ -74,21 +83,26 @@
 }
 
 #date {                       /*title date*/
-  position:absolute;
-  right: 15%;
+  color: gray;
+}
+
+#nav  {
+  position: absolute;
+  right: 10%;
+  list-style-type: none;
 }
 
 .clear {                        /*clear floating*/
   clear:both;
 }
 
-#content {                      /*place content at the middle*/
+.content {                      /*place content at the middle*/
   margin: auto;                 /*现在缺乏的是resize时的调整*/
   width: 60%;                   /*alternative 60-65%*/
   padding-top: 30px;
 }
 
 body {
-  margin:15px;
+  margin: 0;
   padding: 0;
 }

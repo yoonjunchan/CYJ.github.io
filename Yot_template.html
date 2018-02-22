@@ -4,22 +4,29 @@
   <title>J · Template</title>
 
   <link rel="stylesheet" type="text/css" href="./Style/content.css" />
-
 </head>
 <body>
-  <div class="title">
-    <p id="fst_title"  class="title">J j</p>          <!--cool looking Greek Alphabet-->
-    <h1 id="snd_title"  class="title">Template</h1>     <!--real title-->
-    <p id="trd_title"   class="title">Yot <span id="date">05/02/2018</span></p>           <!--name of the Greek Alphabet，可是现在觉得副标题不该这么搞-->
-  </div>
+  <header class="header">
+    <p id="logo">J j</p>          <!--cool looking Greek Alphabet, also is the logo-->
+    <h1 id="title">Template</h1>       <!--real title-->
+    <ul id="nav">                                      <!--暂时是两个先-->
+      <li class="nav_item"><a href="Alpha_MainPage.html">Blog</a></li>
+      <li class="nav_item"><a href="about.html">About</a></li>
+    </ul>
+  </header>
 
   <div class="clear"></div>
 
-  <div id="content">
+  <section class="content">
+    <h1 id="snd_title">Template</h1>
+    <p id="trd_title">Yot <span id="date">05/02/2018</span></p>           <!--name of the Greek Alphabet，可是现在觉得副标题不该这么搞-->
     <p class="im_eq">Important equations, Definitions,</br> complexe Notation and so on.</p>
     <p class="im_note">Color not yet chosen. Just trying. Notation.</p>
     <p class="im_def">Color not yet chosen. Just trying. Definitions.</p>
     <p>Real Paragraph</p>
-  </div>
+  </section>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript" src="main.js"></script>
 </body>
 </html>

@@ -9,7 +9,8 @@ Don't be too ambitious, just build the basic first.
       z-index!!
   d. Quote
   e. 不是很喜欢都用px来设定位置，有没有别的方法？
-      截图 "Problem 1"
+      * 截图 "Problem 1"
+      * maybe $("body").css("width"); to get width od the page
   f. use external CSS
   g.鼠标指上去时的hover显示？
 2. Understanding Github workflow
@@ -26,6 +27,7 @@ Don't be too ambitious, just build the basic first.
   d. font-family, Color 可以研究研究。Neon Red and Blue?
   e. 双语/多语言网站怎么同时编辑？应该有的吧
   f. **How to type equation?!**
+  g. meta tag
 5. 想找一个logo for myself.可以的话其实也需要个好名字
 
 # 设计篇
