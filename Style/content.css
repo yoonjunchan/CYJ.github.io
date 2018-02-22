@@ -38,12 +38,6 @@
   text-align:center;
 }
 
-
-.title {                  /*title group, need a pixel-perfect position*/
-  margin: 0px;
-  padding:0px;
-}
-
 .sm_note {                /*ps note*/
   font-size: 0.6em;       /*居然真的有乘起来的效果！哈哈！*/
   font-style: italic;
@@ -53,16 +47,43 @@
   font-weight: bold;
 }
 
-#fst_title {
+.nav_item {
   float: left;
-  width: 15%;
-  height:60px;
+  margin: 5px;
+  padding: 0px 20px;
   text-align: center;
-  font: italic 3.25em Georgia;
-  padding-left: 10%;
+  line-height: 65px;
+  /*font*/
+  /*remove hyperlink style*/
 }
 
-#snd_title {
+.nav_item.active {
+  border-bottom: lightgray solid 0.2em;
+}
+
+.header {
+  /*padding: 30px 0px;*/
+  height: 70px;
+}
+
+.headerelem {
+
+}
+
+#logo {
+  border-radius: 50%;
+  float: left;
+  background-color: gray;
+  width: 50px;
+  height:50px;
+  text-align: center;
+  font: italic 1.7em Georgia;
+  color: white;
+  margin: 10px 20px; /*如何根据目前的size来改呢*/
+  line-height: 50px; /*to center text vertically*/
+}
+
+#title {
   height:35px;
   padding:3px;
   font:2em Georgia;
@@ -74,21 +95,25 @@
 }
 
 #date {                       /*title date*/
-  position:absolute;
-  right: 15%;
+  color: gray;
+}
+
+#nav  {
+  list-style-type: none;
+  margin: 0px;
 }
 
 .clear {                        /*clear floating*/
   clear:both;
 }
 
-#content {                      /*place content at the middle*/
+.content {                      /*place content at the middle*/
   margin: auto;                 /*现在缺乏的是resize时的调整*/
   width: 60%;                   /*alternative 60-65%*/
   padding-top: 30px;
 }
 
 body {
-  margin:15px;
+  margin: 0;
   padding: 0;
 }
