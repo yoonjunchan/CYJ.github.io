@@ -57,7 +57,7 @@
   /*remove hyperlink style*/
 }
 
-.nav_item.active {
+.active {
   border-bottom: lightgray solid 0.2em;
 }
 
@@ -108,9 +108,8 @@
 }
 
 .content {                      /*place content at the middle*/
-  margin: auto;                 /*现在缺乏的是resize时的调整*/
+  margin: 0 auto;                 /*现在缺乏的是resize时的调整*/
   width: 60%;                   /*alternative 60-65%*/
-  padding-top: 30px;
 }
 
 body {

@@ -29,6 +29,7 @@ Don't be too ambitious, just build the basic first.
   f. **How to type equation?!**
   g. meta tag
 5. 想找一个logo for myself.可以的话其实也需要个好名字
+6. 整个网站参考LaTeX的格式？参考其他人的blog，这类型的学术Blog是怎么打出来的。
 
 # 设计篇
 1. 整体：决定 Material Design?

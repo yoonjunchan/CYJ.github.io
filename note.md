@@ -49,5 +49,6 @@ link to 每个个别的site就先放着，学完了再弄美美
 * 用希腊文字代替章节！嘿嘿
   https://zh.wikipedia.org/wiki/%E5%B8%8C%E8%85%8A%E5%AD%97%E6%AF%8D
 * Floating/fixed/sticky Position for Things to keep in Mind(容易见到的东西)速记，速查列表，什么符号是什么意思，哪里来，式子minimap
+  * 可以让读者自己打个勾才sticky~
 * Material Design!
 * 重要的式子，可以用expand menu的方式看详细推导
